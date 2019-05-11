@@ -6,7 +6,7 @@ body {
 #wrapper {
     max-width: 960px;
     margin: 0 auto;
-    background-color: gold;
+    background-color: grey;
     padding: 32px;
 }
 
@@ -14,6 +14,14 @@ header {
     color: gold;
     height: 150px;
     padding: 4px;
+}
+
+section {
+    max-width: 270px;
+    color: black;
+    height: 120px;
+    padding: 4px;
+    background-color: gold
 }
 
 header h1 {
@@ -26,14 +34,14 @@ header h1 {
 header h2 {
     font-variant: small-caps;
     text-align: center;
-    color: white;
+    color: gold;
 }
 
 .main_menu {
     padding: 5px 0 5px 0;
     text-align: center;
     line-height: 32px;
-    background-color: black
+    background-color: gray
 }
 
 ul.main_menu {
