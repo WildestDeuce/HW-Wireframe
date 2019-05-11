@@ -33,7 +33,7 @@ header h2 {
     padding: 5px 0 5px 0;
     text-align: center;
     line-height: 32px;
-    background-color: gold
+    background-color: black
 }
 
 ul.main_menu {
@@ -52,4 +52,6 @@ ul.main_menu {
     padding: 8px;
     font-variant: small-caps;
 }
-
+.main_menu a hover {
+    color: black;
+}
