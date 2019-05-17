@@ -7,10 +7,12 @@
 }
 
 #header{
-    background: #ebebeb;   
+    background: #ebebeb;
+       
 }
 #nav{
     background: #ebebeb;
+    padding:20px;
 }  
 #aside{
     background: #ebebeb;
@@ -33,6 +35,7 @@
 h1{
     color: #777;
     background: #ebebeb;
+    text-align: center;
 }
 
 p{
