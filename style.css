@@ -23,6 +23,7 @@
     width: 40%;
     margin:5px;
     padding:30px;
+    text-align: center;
 } 
 #footer{
     background: #ebebeb;
@@ -34,12 +35,14 @@
     background: #ebebeb;
     float: left;
     width:40%;
+    text-align: center;
 }
 
 #article{
     color: #ebebeb;
     background: #777;
     margin: 20px;
+    text-align: center;
 }
 
 h1{
@@ -56,4 +59,5 @@ p{
     background: #ebebeb;
     padding: 20px;
     margin: 20px;
+    text-align: center;
 }
