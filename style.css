@@ -6,13 +6,13 @@
     font-size: 18px;
 }
 
-#header,{
+#header{
     background: #ebebeb;   
 }
-#nav,{
+#nav{
     background: #ebebeb;
 }  
-#aside,{
+#aside{
     background: #ebebeb;
     float: right;
 } 
