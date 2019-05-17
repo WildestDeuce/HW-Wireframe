@@ -8,8 +8,6 @@
 
 #header{
     background: #ebebeb;
-    padding: 55px;
-    margin: 5px;       
 }
 #nav{
     background: #ebebeb;
@@ -20,22 +18,28 @@
 #aside{
     background: #ebebeb;
     float: right;
-    width: 40%;
+    width: 440px;
     margin:5px;
-    padding:30px;
+    padding:40px;
     text-align: center;
+    height:178px;
 } 
 #footer{
     background: #ebebeb;
-    float: bottom;
-    margin:5px;  
+    margin: 5px;
+   padding: 30px;
+   text-align: center;
+   width:890px;
+   float: left;
 }
 
 #section{
     background: #ebebeb;
     float: left;
-    width:40%;
+    width: 380px;
     text-align: center;
+    padding: 20px;
+    margin: 5px;
 }
 
 #article{
@@ -43,6 +47,7 @@
     background: #777;
     margin: 20px;
     text-align: center;
+    padding: 20px;
 }
 
 h1{
@@ -57,7 +62,17 @@ h1{
 p{
     color: #777;
     background: #ebebeb;
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 5px;
     text-align: center;
+    width: 285px;
+}
+
+.list{
+    color: #777;
+    background: #ebebeb;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    width: 285px;
 }
