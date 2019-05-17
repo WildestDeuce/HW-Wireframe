@@ -33,14 +33,28 @@ time, mark, audio, video {
 }
 
 #header, 
-#nav, 
-#section, 
+#nav,  
 #aside, 
 #footer{
     background: #ebebeb;
 }
 
+#section{
+    background: #ebebeb;
+    width: 495px;
+}
+
 #article{
     color: #ebebeb;
-    background:
+    background: #777;
+}
+
+h1{
+    color: #777;
+    background: #ebebeb;
+}
+
+p{
+    color: #777;
+    background: #ebebeb;
 }
